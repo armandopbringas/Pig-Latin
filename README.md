@@ -5,6 +5,21 @@ Applying a Test-Driven Development (TDD) approach to testing, we defined require
 **Summary:**
 We used Test-Driven Development (TDD) to guide our testing. We started by defining requirements with test cases, wrote unit tests for each function, and iteratively developed and refined the code. We focused on ensuring that functions work together to convert words into Pig Latin, aligning with TDD principles.
 
+# Pig Latin Project
+
+This project implements a series of functions that convert words to Pig Latin, following specific rules for vowels, consonants, and words with special characters or symbols.
+
+## Prerequisites
+
+Make sure you have **Node.js** installed on your machine. You will also need **Jest** for running the tests.
+
+## Installation
+
+First, install the necessary dependencies:
+
+```bash
+npm install
+
 ## Steps for Pig Latin Script Testing (TDD)
 
 ## 1. Input Validation
