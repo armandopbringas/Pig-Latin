@@ -1,10 +1,10 @@
-# Steps for Pig Latin Script Testing (TDD)
-
 **TL;DR:**
 Today, we applied a Test-Driven Development (TDD) approach to testing, focusing on defining requirements through tests, performing unit tests for each function, iterative development, and validating error handling. We used Pig Latin as our example to ensure each function meets its requirements and integrates smoothly.
 
 **Summary:**
 We adopted a Test-Driven Development (TDD) approach for our testing process. This involved defining requirements through test cases before implementing functions, focusing on unit tests for each function, and using an iterative approach to ensure that code passes all tests. We emphasized validation and error handling, making sure all functions work together correctly to convert words into Pig Latin. This method aligns with TDD principles by writing tests first, developing code to pass those tests, and refining the code as needed.
+
+## Steps for Pig Latin Script Testing (TDD)
 
 ## 1. Input Validation
 
