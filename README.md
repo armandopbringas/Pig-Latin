@@ -20,6 +20,11 @@ First, install the necessary dependencies:
 ```bash
 npm install
 ```
+Then you can run the tests:
+
+```bash
+npm TEST
+```
 
 ## Steps for Pig Latin Script Testing (TDD)
 
