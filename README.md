@@ -23,7 +23,7 @@ npm install
 Then you can run the tests:
 
 ```bash
-npm TEST
+npm test
 ```
 
 ## Steps for Pig Latin Script Testing (TDD)
