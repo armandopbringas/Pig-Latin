@@ -1,5 +1,5 @@
 **TL;DR:**
-Applying a Test-Driven Development (TDD) approach to testing, we defined requirements through tests, performed unit tests for each function, used iterative development, and validated error handling with Pig Latin as our example.
+Applying a Test-Driven Development (TDD) approach to testing, we defined requirements through tests, performed unit tests for each function, used iterative development, and validated error handling with Pig Latin as example.
 
 
 **Summary:**
